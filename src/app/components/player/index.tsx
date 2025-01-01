@@ -1,8 +1,6 @@
 "use client"
 
-import { useState } from "react"
 export function Player(){
-    const [load, setLoad] = useState<boolean>(false)
     return(
 
         <>
