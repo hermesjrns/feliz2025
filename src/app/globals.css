@@ -11,11 +11,14 @@
   :root {
     --background: #0a0a0a;
     --foreground: #ededed;
+    --yellow-935: #6d5b00;
+
   }
 }
 
 body {
   color: var(--foreground);
   background: var(--background);
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: 'Lexend';
+  color: var(--yellow-935);
 }
